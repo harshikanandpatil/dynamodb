@@ -54,6 +54,7 @@ aws dynamodb create-table \
 ---
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e8ff3800-973b-4cb2-813c-d078994d9e5d" />
 
+
 ## List Available Tables
 
 ```bash
@@ -132,6 +133,8 @@ aws dynamodb get-item \
 
 ---
 
+<img width="926" height="412" alt="image" src="https://github.com/user-attachments/assets/6ff9cd87-345f-43ab-a8db-a1f7e4dab259" />
+
 ## Update an Item
 
 ```bash
@@ -139,12 +142,12 @@ aws dynamodb update-item \
 --table-name Student \
 --key '{"StudentID":{"S":"STU001"}}' \
 --update-expression "SET City = :city" \
---expression-attribute-values '{":city":{"S":"Nagpur"}}'
+--expression-attribute-values '{":city":{"S":"Nepal"}}'
 ```
 
 ---
+<img width="938" height="396" alt="image" src="https://github.com/user-attachments/assets/c8176d35-145e-4382-888e-b48753899ea0" />
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/7f7db6c2-1701-48b1-a207-0d7bef02678c" />
 
 ## Delete an Item
 
