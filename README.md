@@ -143,6 +143,8 @@ aws dynamodb update-item \
 ```
 
 ---
+![Uploading image.png…]()
+
 
 ## Delete an Item
 
