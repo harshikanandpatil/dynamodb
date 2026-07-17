@@ -6,9 +6,9 @@ table = dynamodb.Table('Student')
 
 table.put_item(
  Item={
-  'StudentID':'STU001',
-  'Name':'Atul Kamble',
-  'City':'Pune'
+  'StudentID':'STU002',
+  'Name':'Atul amble',
+  'City':'burhanpur'
  }
 )
 
