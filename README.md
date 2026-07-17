@@ -1,9 +1,4 @@
-
-Since you're building a GitHub project, it's much better to document the commands in a structured `README.md` instead of listing raw terminal history.
-
-You can add the following section to your repository.
-
-````markdown
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e8ff3800-973b-4cb2-813c-d078994d9e5d" />
 # AWS DynamoDB CLI Project
 
 This project demonstrates how to perform basic Amazon DynamoDB operations using the AWS Command Line Interface (AWS CLI).
