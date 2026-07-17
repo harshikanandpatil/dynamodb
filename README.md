@@ -1,4 +1,4 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e8ff3800-973b-4cb2-813c-d078994d9e5d" />
+
 # AWS DynamoDB CLI Project
 
 This project demonstrates how to perform basic Amazon DynamoDB operations using the AWS Command Line Interface (AWS CLI).
@@ -52,6 +52,7 @@ aws dynamodb create-table \
 ```
 
 ---
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e8ff3800-973b-4cb2-813c-d078994d9e5d" />
 
 ## List Available Tables
 
