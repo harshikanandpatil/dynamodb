@@ -1,4 +1,4 @@
-
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/7f7db6c2-1701-48b1-a207-0d7bef02678c" />
 # AWS DynamoDB CLI Project
 
 This project demonstrates how to perform basic Amazon DynamoDB operations using the AWS Command Line Interface (AWS CLI).
@@ -143,7 +143,7 @@ aws dynamodb update-item \
 ```
 
 ---
-![Uploading image.png…]()
+
 
 
 ## Delete an Item
